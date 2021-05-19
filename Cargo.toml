@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "pattern_01_static_dispatch",
+    "pattern_02_dynamic_dispatch",
+    "pattern_03_di_container",
+    "pattern_04_cake_pattern",
+]
